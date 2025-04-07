@@ -35,7 +35,7 @@ Este trabalho simula um cenário corporativo e desenvolve competências essencia
 - **Lucro e Unidades Vendidas por País**
 - **Análise Espacial (Mapas de Bolhas)**
 
-## 📸 Capturas de Tela
+## Índice
 
 | Página | Visualização |
 |--------|--------------|
